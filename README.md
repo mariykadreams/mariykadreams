@@ -1,4 +1,4 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643515157/11711/kirby_vibing.gif?1643515157" width="25"/>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643515335/13539/kirbyoutline.png?1643515335" width="25"/>
 
 I’m [**Mariia**](https://github.com/mariykadreams), a Junior Software Developer.
 <!---
