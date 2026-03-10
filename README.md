@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643515411/14310/kirby.png?1643515411" width="25"/> </h1>
 
 # 💫 About Me:
-I’m [**Mariia**](https://github.com/mariykadreams), a Junior Software Developer. I am passionate about building projects that can make our lives easier
+I’m [**Mariia**](https://github.com/mariykadreams), a Junior Software Developer. I am passionate about building projects that can make our lives easier 
 
 # 💻 Tech Stack:
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
